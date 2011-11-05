@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<overlay id="WebSocketServer_hybi-08_coffee"
+       xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="application/x-javascript" src="init.js" />
+  <script type="application/x-javascript" src="DataFrame.js" />
+  <script type="application/x-javascript" src="WebSocketClient.js" />
+  <script type="application/x-javascript" src="WebSocketServer.js" />
+  <script type="application/x-javascript"><![CDATA[
+  ]]></script>
+</overlay>
